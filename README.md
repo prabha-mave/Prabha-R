@@ -1,37 +1,31 @@
 # Hi, I'm Prabha 👋
 
-Aspiring Data Analyst | SQL | Excel | Power BI  
-Building real-world data projects with a growing interest in data engineering.
+Aspiring Data Analyst | SQL | Excel | Power BI | Python
+Building real-world data projects with a growing interest in data analysis.
+
 
 ---
 
----
-
-## 🚀 About Me
-
-- Currently building hands-on data projects
-- Strong in Excel (Data Cleaning, Pivot Tables, Dashboards)
-- Learning SQL and Data Engineering concepts
-- Goal: Transition into Data Engineering in the long term
----
 
 ## 🛠 Skills
 
-**Data Analysis**
-- Excel (Advanced formulas, Pivot Tables, Data Cleaning)
-- SQL (Joins, Aggregations, Subqueries)
-- Power BI (Dashboards & Visualizations)
+- SQL (PostgreSQL, Joins, CTEs, Window Functions)
+- Power BI (DAX, Dashboards, Power Query)
+- Excel (Pivot Tables, XLOOKUP, Data Cleaning)
+- Python (Pandas, Matplotlib, Seaborn)
 
-**Programming**
-- Python (Basics, Pandas)
 
 ---
 
+
 ## 📊 Featured Projects
 
-🔹 [Sales Performance Dashboard (Excel)](https://github.com/prabha-mave/sales-performance-dashboard-excel)
+🔹 [Blinkit Sales Analysis](https://github.com/prabha-mave/Blinkit-Sales-Analysis-Python-EDA)
+
+🔹 [Online Retail Sales Analysis](https://github.com/prabha-mave/Online-Retail-Sales-Analysis)
 
 (More projects coming soon...)
+
 
 ---
 
